@@ -1,0 +1,18 @@
+.navbar ul
+{
+    color:blue ;
+}
+.navbar a:hover{
+    background-color: aliceblue;
+}
+body{
+    padding: 10px;}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+
+
+
